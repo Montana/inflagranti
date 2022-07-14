@@ -1,0 +1,4 @@
+dist: jammy
+python: pypy3 
+language: python 
+install: skip
